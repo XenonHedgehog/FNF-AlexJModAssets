@@ -1,6 +1,6 @@
 I present to you all...
 
-![The Dumbest shit I've ever made in may 2024](https://github.com/XenonHedgehog/FNF-AlexJMod/blob/main/Untitled628_20250209215734.png?raw=true)
+![The Dumbest shit I've ever made in may 2024](https://github.com/XenonHedgehog/FNF-AlexJMod/blob/main/promo/Untitled628_20250209215734.png?raw=true)
 
 # FNF-AlexJMod
 This mod adds the good old Alex Jason.
