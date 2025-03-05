@@ -2,6 +2,8 @@
 
 This is where stuff that doesn't brought into the mod. This is where all of my unused Ibis Paint stuff related to Alex in FNF.
 
+INFO:
+
 • Untitled77.ipv (Jun 17, 2024) - Tried to make an underground (from Vs. Whitty Definitive Edition) version of alex, but was scrapped
 
 • Alex Scared test.ipv (Aug 10, 2024) - Alex Scared idle. That's it
