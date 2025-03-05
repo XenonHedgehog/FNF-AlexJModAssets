@@ -2,6 +2,8 @@ the old stuff folder. This is where you NEED to use Ibis Paint to open .ipv file
 
 NOTES:
 
+• Alex FNF Basic Anim.ipv - I'm gonna remove the hidden "thing" because it violates this mod for me.
+
 • old alex icons + other icons.ipv - This is the first version of the Alex icons I've made (there is a winning icon for him). There are some icons that were for my planned mod or something. It is my intention to put in layer 1 and not layer 7.
 
 • Untitled115.ipv - the old game over animation for Alex.
