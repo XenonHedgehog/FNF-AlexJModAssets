@@ -1,5 +1,5 @@
-# THE OLD STUFF FOLDER
-the old stuff folder. This is where you NEED to use Ibis Paint to open .ipv files. If not, well shame on you. No hidden legacy Alex stuff!
+# THE OLD STUFF FOLDER (COMPLETED, YES!)
+This is where pre-Adobe Animate/Ibis Paint stuff were added in this folder. This is where you NEED to use Ibis Paint to open .ipv files. If not, well shame on you. No hidden legacy Alex stuff!
 
 INFO:
 
