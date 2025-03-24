@@ -11,3 +11,9 @@ INFO:
 • XMAS.ipv (May 20, 2024) - unused christmas variation of Alex mimicking Monster's santa hat frame-by-frame. This was unused because I'm very dumb at making ease. Interestingly, it had older versions of the poses.
 
 • Weekend 1 alex cutscene.ipv - originally made in July? (August), this was supposed to have a cutscene for Alex in Weekend 1. Decided to add faces at November.
+
+• 16-bit alex.ipv - this is where his current design originated from.
+
+• 16 bit things and other.ipv - initial poses and miss poses for the pixel variant.
+
+• alex jason pixel.ipv - made for animating the parts
