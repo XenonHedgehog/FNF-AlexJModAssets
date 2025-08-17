@@ -1,6 +1,6 @@
 I present to you all...
 
-![An idea from may 2024](https://github.com/XenonHedgehog/FNF-AlexJMod/raw/refs/heads/main/Promo/Untitled628_20250209215734.png)
+![An idea from may 2024](https://github.com/XenonHedgehog/FNF-AlexJModAssets/blob/main/Promo/FNF%2BALEX%20BAN.png)
 This thing
 
 # FRIDAY NIGHT FUNKIN' + ALEX (le assets.)
